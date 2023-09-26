@@ -57,5 +57,13 @@ This is an Bookshop Management System, developed with Laravel, this system is us
 Now this project is ready to run. For admin, Email `admin@bookshop.com` password `secret`. For user, Email `user@bookshop.com` password `secret`.
  
  ___If you would find any errors or issues you can mention in issues or raise a pull request. Fell free to contributing in this project.___
+
+## License
+The Bookshop Management System with Laravel is licensed under the MIT License.
+
+## Support
+For any inquiries, issues, or assistance, please feel free to contact our dedicated support team.
+
+We appreciate your choice of the Bookshop Management System with Laravel to elevate your bookstore operations and look forward to helping you thrive in the world of bookselling.
  
  
