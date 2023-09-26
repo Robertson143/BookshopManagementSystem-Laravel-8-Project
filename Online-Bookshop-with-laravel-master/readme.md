@@ -1,5 +1,8 @@
-# Online Bookshop with laravel
- This is an online bookshop project with laravel 5.8, bootstrap 4, javaScript and jquery. In this project I use [**stripe payment**](https://stripe.com/) system, and [**Laravel Shoppingcart**](https://github.com/bumbummen99/LaravelShoppingcart) for maintaining the user orders and payments. This project has many other cool functionality, like as [**Data table**](https://datatables.net/) and so on.
+# BookshopManagementSystem-Laravel-8-Project
+
+#  Overview
+
+This is an Bookshop Management System, developed with Laravel, this system is user-friendly and feature-rich application designed to streamline the operations of bookstores. This system provides booksellers with an efficient and organized platform to manage inventory, process orders, and enhance the overall bookstore experience.
  
  ## Key Features
  
@@ -33,8 +36,7 @@
  - SB-Admin-2
  - JavaScript, jQuery
  - MySql
- - [Stripe payment](https://stripe.com/)
- - [Laravel ShoppingCart](https://github.com/bumbummen99/LaravelShoppingcart)
+ 
  
  ## Getting started
  
@@ -57,8 +59,3 @@ Now this project is ready to run. For admin, Email `admin@bookshop.com` password
  ___If you would find any errors or issues you can mention in issues or raise a pull request. Fell free to contributing in this project.___
  
  
-***
-
-&copy; [Tahmid Nishat](http://tahmid-ni7.github.io/portfolio)
-
-`Full-stack web developer & CS Engineer`
